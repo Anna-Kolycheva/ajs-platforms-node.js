@@ -1,0 +1,23 @@
+{
+  "name": "ajs-platforms-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anna-Kolycheva/ajs-platforms-node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anna-Kolycheva/ajs-platforms-node.js/issues"
+  },
+  "homepage": "https://github.com/Anna-Kolycheva/ajs-platforms-node.js#readme",
+  "dependencies": {
+    "@anna-kolycheva/ajs-platforms": "^1.0.0"
+  }
+}
